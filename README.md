@@ -1,2 +1,1 @@
-# scripttru
-https://seu-usuario.github.io/scripttru/
+http://localhost:5500
