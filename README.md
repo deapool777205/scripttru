@@ -1,1 +1,1 @@
-http://localhost:5500
+https://scripttru.vercel.app
