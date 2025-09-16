@@ -1,1 +1,1 @@
-https://scripttru.vercel.app
+/pages/index.js
